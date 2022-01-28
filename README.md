@@ -2,24 +2,6 @@
 
 This is an umbrella repository which guides you through the International Data Spaces Association (IDSA). We briefly provide an overview on available resources in this repository and beyond. To support your journey building data spaces and maintaining data sovereignty while sharing data, we offer here a growing and community-driven knowledge base and an overview on available Open Source components, based on the IDSA Open Source Graduation Scheme. 
 
-## Contents
-
-<details>
-<summary><strong>Details</strong></summary>
-
--   [SHARING DATA WHILE KEEPING DATA OWNERSHIP](##sharing-data-while-keeping-data-ownership)
-    - [IDSA AT A GLANCE](#idsa-at-a-glance) 
-    - [IDS-G](#ids-g)
-    - [Repository overview](#tbd)
--   [Knowledge Base](#knowledge-base)
--   [Management of IDSA Releases](#management-of-idsa-releases)
--   [Installation](#installation)
--   [Contributing](#willing-to-contribute)
-    - [Open Source](#tbd)
-    - [Knowledge base](#tbd)  
--   [License](#license)
-
-</details>
 
 
 ## SHARING DATA WHILE KEEPING DATA OWNERSHIP
