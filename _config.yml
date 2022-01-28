@@ -24,7 +24,8 @@ github_username:  ssteinbuss
 
 # Build settings
 markdown: GFM
-theme: minima
+# theme: minima
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
