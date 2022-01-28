@@ -1,5 +1,12 @@
+---
+layout: default
+title: Home
+# nav_order: 1
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+# permalink: /
+---
 # 4. Prepare for Go-Live
- 
+
 ## Get Certified
 
 The Certification of the International Data Space is of fundamental importance for IDS and one of its core components. Certification in general provides a very high degree of transparency. This transparency is achieved by making the requirements for the auditee and the auditors and the complete certification process available for public. The transparency is also key for the main goal of certification: Trust. Trust is the basis for a successful collaboration between partners, in business as well as in social life. Due to the importance of collaboration for the IDS, certification works as an enabler for business and use cases. Collaboration is the basis for the IDS itself and therefore, it is necessary to establish trust by certification between the partners in IDS.
@@ -20,15 +27,15 @@ The entire certification process consists of three steps as shown on the leaflet
 2. Onboarding session with your Evaluation Facility. You will get your individual audit road map.
 3. The Evaluation Facility will start the audit process and collaborate with you on collecting all necessary documents and information.
 
-[Here](Roles-in-Certification.md) you can find more information about the roles involved in the certification process. 
+[Here](Roles-in-Certification.md) you can find more information about the roles involved in the certification process.
 #
 
 You can get more information via [IDSA Website](https://internationaldataspaces.org/use/certification/)
 If you need more details (on services, costs,  or looking forward to initiate the certification process, you can contact IDSA Head Office via email: (supportoffice@internationaldataspaces.org)
 
 
-## IDS Testbed 
-IDS Testbed project ensures and facilitates integration of IDS connector into existing (eco)systems. 
+## IDS Testbed
+IDS Testbed project ensures and facilitates integration of IDS connector into existing (eco)systems.
 
 The IDS Reference Testbed is a set up with Open Source IDS components which can be used to verify that a component:  
 
@@ -42,9 +49,7 @@ IDS-Testbed documentation includes
 * An installation guide with instructions to install the testbed and each individual component
 * An interconnectivity guide to connect the different components to one another
 * A user guide that explains:
-     * how you can connect the connector you have developed to the components of the testbed. 
+     * how you can connect the connector you have developed to the components of the testbed.
      * how to get a certificate
      * how to register at the DAPS
      * etc
-
-

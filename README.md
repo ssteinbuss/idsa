@@ -1,6 +1,14 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "get into the knowledge base."
+# permalink: /
+---
+
 # The International Data Spaces Association on GitHub
 
-This is an umbrella repository which guides you through the International Data Spaces Association (IDSA). We briefly provide an overview on available resources in this repository and beyond. To support your journey building data spaces and maintaining data sovereignty while sharing data, we offer here a growing and community-driven knowledge base and an overview on available Open Source components, based on the IDSA Open Source Graduation Scheme. 
+This is an umbrella repository which guides you through the International Data Spaces Association (IDSA). We briefly provide an overview on available resources in this repository and beyond. To support your journey building data spaces and maintaining data sovereignty while sharing data, we offer here a growing and community-driven knowledge base and an overview on available Open Source components, based on the IDSA Open Source Graduation Scheme.
 
 
 
@@ -24,7 +32,7 @@ As depicted on the infographic below, the IDS standard enables trustworthy data 
 Read the Executive Summary of the IDSA [here](https://www.internationaldataspaces.org/publications/sharing-data-while-keeping-data-ownership-the-potential-of-ids-for-the-data-economy/).
 
 #
-[IDSA Website](https://internationaldataspaces.org/) | [LinkedIn](https://www.linkedin.com/company/international-data-spaces-association/mycompany/) | [Twitter](https://twitter.com/ids_association) | [YouTube](https://www.youtube.com/channel/UC9PsQnKgreCmj-F6Kea5QRg) 
+[IDSA Website](https://internationaldataspaces.org/) | [LinkedIn](https://www.linkedin.com/company/international-data-spaces-association/mycompany/) | [Twitter](https://twitter.com/ids_association) | [YouTube](https://www.youtube.com/channel/UC9PsQnKgreCmj-F6Kea5QRg)
 
 #
 [Most Important Documents from IDSA](https://internationaldataspaces.org/publications/most-important-documents/)
@@ -75,11 +83,11 @@ To get started with IDS based Data Spaces we provide an overview on available co
 ---
 
 ## Willing to Contribute
-You are warmly invited to contribute to the IDSA work. While some aspects of the IDSA work is limited to IDSA members, most of the work here on GitHub is open for everybody to use and to contribute. You can always create Change Request as Issue on IDS-G (https://github.com/International-Data-Spaces-Association/IDS-G). 
+You are warmly invited to contribute to the IDSA work. While some aspects of the IDSA work is limited to IDSA members, most of the work here on GitHub is open for everybody to use and to contribute. You can always create Change Request as Issue on IDS-G (https://github.com/International-Data-Spaces-Association/IDS-G).
 
 You can contribute your technology by following the IDSA OSS Gradaution Scheme as explained below.
 
-Feel free to add your knowledge and experience to the IDSA Knowledge Base. 
+Feel free to add your knowledge and experience to the IDSA Knowledge Base.
 
 
 ### BECOME PART OF IDS OPEN SOURCE LANDSCAPE
@@ -87,7 +95,7 @@ IDSA welcomes contributions from all levels (organizational, individual and proj
 
 You do not have to be a developer to be part of IDS Open Source Landscape. You can join either with your project or as a contributor. This will not only make you a part of the great community here, but also will give you an opportunity to share your experiences, express your opinion and gather feedback from the other members. So, as long as you have an idea on IDS components or data spaces in general please feel free to join us!
 
-The IDSA Open Source Software Graduation Scheme is placed in in this repository. 
+The IDSA Open Source Software Graduation Scheme is placed in in this repository.
 - Find the scheme itself [in the graduation scheme folder](./graduation_scheme/README.md).
 - The templates for [sandbox](./graduation_scheme/Sandbox_Reviews/README.md) reviews and [due diligence](./graduation_scheme/due_diligence_reports/README.md).
 - [A short slide deck on the Graduation Scheme, how to apply and why.](./graduation_scheme/IDSA-Graduation-Scheme.pdf)

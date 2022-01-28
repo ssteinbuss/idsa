@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+# nav_order: 1
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+# permalink: /
+---
+
 # 3. Build Components
 You can either build IDS components from scratch by using existing resources as a template, or you can reuse existing open source components available on the IDS Github repository. Already at this stage, you must ensure that the necessary requirements for a later, successful certification are met. Below you can check the existing projects that are available on IDS OS Landscape. If you are looking for external support for the implementation process, you can check the section about [Technology Implementation Partners](#technology-implementation-partners), at the end of this page.
 
@@ -17,7 +25,7 @@ Existing open-source projects address the technical challenges of cataloguing an
 
 ### Identity Management
 
-* [DAPS](../../../../omejdn-daps/) (Dynamic Attribute Provisioning Service) is the component to provide certain attributes to organizations and connectors. 
+* [DAPS](../../../../omejdn-daps/) (Dynamic Attribute Provisioning Service) is the component to provide certain attributes to organizations and connectors.
 * [ParIS Open Core](../../../../ParIS-open-core/) is an implementation of an International Data Spaces (IDS) Participant Information Service (ParIS), which is a registry for IDS Participant self-description documents. It is currently under development and intends to act as a reference for members of the International Data Spaces Association (IDSA) to help with the implementation of custom ParIS solutions.
 
 ### App Store
@@ -37,10 +45,7 @@ Existing open-source projects address the technical challenges of cataloguing an
 * [IDSCP2Rust](../../../../idscp2-rust/) is the Rust implementation of the IDSCP2 transport layer.
 * [IDS Information Model](../../../../InformationModel/) is an RDFS/OWL-ontology covering the fundamental concepts of the International Data Spaces (IDS), i.e. the types of digital contents that are exchanged by participants by means of the IDS infrastructure components.
 * [IDS Messaging Services](../../../../IDS-Messaging-Services/) provides a lightweight implementation for IDS-Message-Handling. The IDS-Messaging-Services offer open-source functionality for sending IDS-Messages as well as interfaces for processing received IDS-Messages.
-* [IDS Testbed](../../../../IDS-testbed/) can be used for component behaviour testing and to verify interoperability testing against IDS components (Connector, DAPS, CA, Metadata Broker). It also functions as a preparation tool for IDS certification as well as a starting point for creation of data spaces. 
+* [IDS Testbed](../../../../IDS-testbed/) can be used for component behaviour testing and to verify interoperability testing against IDS components (Connector, DAPS, CA, Metadata Broker). It also functions as a preparation tool for IDS certification as well as a starting point for creation of data spaces.
 
 ## Technology Implementation Partners
 Are you looking for external support for technology implementation process? IDSA works together with many different organizations who serve as technology implementation partners (TIP), that will support you as you build the necessary components to succeed with certification. Your TIP will help you to bring your use case from the drawing board into the real world. You can find more information [on IDSA Website](https://internationaldataspaces.org/adopt/implementation-partners/).
-
-
-
